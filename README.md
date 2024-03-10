@@ -1,8 +1,7 @@
-# UEFA_EURO_CUP
+# UEFA_EURO_CUP_2024_PREDICTION
 
-Hi,
 
-This project is deigned to showcase my technical skills using Python with the following libraries:
+This project is designed to showcase my technical skills using Python with the following libraries:
 - Pandas
 - NumPy
 - SciPy
@@ -11,3 +10,4 @@ This project is deigned to showcase my technical skills using Python with the fo
 - Requests
 - Pickle
 
+Mission: To predict the outcome of the 2024 UEFA Euro Cup
