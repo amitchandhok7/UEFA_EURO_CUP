@@ -1,8 +1,8 @@
 # UEFA_EURO_CUP
 
-# Hi,
+Hi,
 
-# This project is deigned to showcase my technical skills using Python with the following libraries:
+This project is deigned to showcase my technical skills using Python with the following libraries:
 #   - Pandas
 #   - NumPy
 #   - BeautifulSoup
