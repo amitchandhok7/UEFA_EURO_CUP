@@ -7,7 +7,7 @@ Welcome to my project, where I bridge the gap between hobbies and learning oppor
 To complete this project, I utilized Python with the following libraries:
 - Pandas
 - SciPy
-- Ascii
+- String
 - BeautifulSoup
 - Requests
 - Pickle
